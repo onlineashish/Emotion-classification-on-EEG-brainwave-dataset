@@ -1,4 +1,3 @@
-# RNN_LSTM
-# Emotion_Classification
-Abstract. 
+
+ 
 Emotion plays a crucial role in human behaviour and decision-making, and emotion classification finds its application in various fields such as criminal detection, security services and many more. However, there is no single method/algorithm which can always be best suited for different varieties of data. This project explores the performance of various machine learning and deep learning methods to classify emotional experiences based on EEG brainwave data. We explored some algorithms, such as Random Forest, Logistic Regression, Artificial neural network, Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU), to efficiently classify emotional states. The dataset used for this experiment consists of EEG signals recorded from individuals while experiencing different emotional states, which were then labelled accordingly. The obtained result shows that most of the deep learning models performed very well, whereas the LSTM model was reported with an accuracy of 98.2%. Similarly, GRU’s accuracy was reported to be 96.02%. In contrast, the Random Forest and logistic regression models resulted in scores of 92% and 77.02%, respectively.
